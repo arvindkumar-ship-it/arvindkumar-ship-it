@@ -2,9 +2,9 @@
 
 ### Hey there! I'm Arvind 👋
 
-🚀 **Full-Stack AI Engineer** — building efficient, production-grade Agentic AI systems
-- 💼 Research Consultant @ WorldQuant Brain 
-- 🚀 Building Agentic AI systems — LangGraph, RAG, LLM orchestration
+ **Full-Stack AI Engineer** — building efficient, production-grade Agentic AI systems
+-  Research Consultant @ WorldQuant Brain 
+-  Building Agentic AI systems — LangGraph, RAG, LLM orchestration
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
