@@ -1,8 +1,8 @@
-![Banner](https://readme-typing-svg.demolab.com/?lines=Full-Stack+AI+Engineer;Building+Agentic+AI+Systems;LangGraph+%7C+RAG+%7C+LLM+Orchestration&font=Fira+Code&center=true&width=500&height=50)
+![Banner](https://readme-typing-svg.demolab.com/?lines=Backend+and+Applied+AI+Projects;Building+Agentic+AI+Systems;LangGraph+%7C+RAG+%7C+LLM+Orchestration&font=Fira+Code&center=true&width=500&height=50)
 
 ### Hey there! I'm Arvind 👋
 
- **Full-Stack AI Engineer** — building efficient, production-grade Agentic AI systems
+ **Third-year CS student at RKGIT, Ghaziabad** — building backend and applied AI projects; seeking internships
 -  Research Consultant @ WorldQuant Brain 
 -  Building Agentic AI systems — LangGraph, RAG, LLM orchestration
 ### 🛠️ Tech Stack
@@ -27,11 +27,9 @@
 
 ### 📊 GitHub Stats
 ![Your Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=arvindkumar-ship-it&show_icons=true&theme=tokyonight)
-)
 
 ### 🔥 GitHub Streak
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arvindkumar-ship-it&theme=tokyonight)
-)
 
 ### 🌱 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arvindkumar-ship-it&theme=react-dark)
@@ -42,9 +40,13 @@
 ### 💻 Top Languages
 ![](https://github-summary-cards-blond.vercel.app/api/cards/repos-per-language?username=arvindkumar-ship-it&theme=tokyonight)
 
-### 🚀 Featured Projects
-| Project | Description | Tech |
-|---|---|---|
-| [AgentSec](link) | AI security scanning platform | FastAPI, LangGraph, MongoDB |
-| [CareFlow](link) | AI hospital management system | FastAPI, MongoDB, Groq |
-| [Raahgir AI](link) | AI trip planner | LangGraph, Next.js, Groq |
+### Featured projects
+
+| Project | Scope |
+|---|---|
+| [Kestrel](https://github.com/arvindkumar-ship-it/Kestrel) | Backend security-event processing, authenticated APIs and stream recovery |
+| [MiniDB](https://github.com/arvindkumar-ship-it/kuchh-nhi-) + [consensusdb](https://github.com/arvindkumar-ship-it/consensusdb) | C++ database engine and companion replication/sharding experiments |
+| [taskwise](https://github.com/arvindkumar-ship-it/taskwise) | Retrieval and approval-controlled task execution prototype |
+| [AgentSec](https://github.com/arvindkumar-ship-it/AgentSec) | Experimental agent-security scanning and tool guardrails |
+
+Project checks, scope and remaining limitations are documented in each repository. These projects do not imply validated production security or model accuracy.
